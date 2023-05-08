@@ -1,8 +1,10 @@
 
 Firebase Shopping List App
+
 This is a simple shopping list application that uses Firebase Realtime Database to store and retrieve shopping list items.
 
 Installation
+
 Clone or download the repository to your local machine.
 Open index.html in your web browser.
 Create a new Firebase project in the Firebase Console.
@@ -15,4 +17,5 @@ The app provides a simple interface for adding items to your shopping list. You 
 Once an item is added, it will appear in the shopping list. To remove an item, simply click on it.
 
 Contributing
+
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
